@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  articles/CONTRIBUTING: CONTRIBUTING.html
+  articles/motivation: motivation.html
+last_built: 2021-03-13T13:50Z
+urls:
+  reference: https://docs.ropensci.org/qcoder/reference
+  article: https://docs.ropensci.org/qcoder/articles
+

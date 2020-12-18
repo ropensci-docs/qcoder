@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bfb54a770935740ff99118ea4e2825c7153599d2",
+    "author": "elinw <elin.waring@gmail.com>",
+    "time": "2020-12-18 13:39:19",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #204 from ropenscilabs/develop\n\nUpdate display after adding codes and units."
+  },
+  "remote": "https://github.com/ropenscilabs/qcoder",
+  "pkg": "qcoder"
+}
