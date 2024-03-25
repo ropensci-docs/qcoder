@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d8743f70f4243a2d45bfd0f4dee4ca089d629ad5",
+    "author": "Elin Waring <elin.waring@gmail.com>",
+    "time": "2021-12-27 16:40:23",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "repo": "https://github.com/ropenscilabs/qcoder",
+  "pkg": "qcoder"
+}
