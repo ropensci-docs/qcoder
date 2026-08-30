@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b08f531d4288d489268c598b39fcdcfe3eb92146",
+    "author": "Elin Waring <elin.waring@gmail.com>",
+    "time": "2026-01-13T17:44:11Z",
+    "files": 3,
+    "merge": false,
+    "message": "remove travis\n"
+  },
+  "repo": "https://github.com/ropenscilabs/qcoder",
+  "pkg": "qcoder",
+  "time": "2026-08-30T07:17:59Z"
+}
